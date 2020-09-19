@@ -6,3 +6,4 @@
 /x_train_resnet34.npy
 /y_test.npy
 /y_train.npy
+/model_final.pth
