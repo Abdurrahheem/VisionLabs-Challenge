@@ -7,3 +7,5 @@
 /y_test.npy
 /y_train.npy
 /model_final.pth
+/model_newdatasetfinal.pth
+/__pycache__/
