@@ -1,13 +1,13 @@
 /plot_kmeans_digits.ipynb
 /.ipynb_checkpoints
 /catboost_info
-/EyesDataset
+Scripts/EyesDataset
 /x_test_resnet34.npy
 /x_train_resnet34.npy
 /y_test.npy
 /y_train.npy
-/model_final.pth
-/model_newdatasetfinal.pth
+Scripts/model_final.pth
+Scripts/model_newdatasetfinal.pth
 /__pycache__/
 /mrlEyes_2018_01.zip
-/mrlEyes_2018_01
+Scripts/mrlEyes_2018_01
